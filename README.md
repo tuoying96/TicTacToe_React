@@ -1,6 +1,6 @@
 # TicTacToe_React
 ## Tutorial: Intro to React
-This is the review of the tutorial of React official documentations.
+This is a reproduce of the tutorial of React official documentations.
 https://reactjs.org/tutorial/tutorial.html
 
 ## Getting Started with Create React App
